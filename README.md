@@ -41,10 +41,23 @@ Many of the data quality issues I encountered were accounted for when creating t
 
 ## 4 Communicate With Stakeholders
 
+> Hi business person,
+>
+>I have been cataloging the rewards data including the brands, receipts, and user data. I have a couple questions about the receipts data that has been coming as part of the rewards program.
+> 
+> I noticed the items scanned are often missing many data fields and have a flag for review. Can you explain why an item would be sent for review?
+>
+> Also it looks like many items are missing a 'Brand Code' which is used to connect items to the brand/company. Are you aware of any data related to items that different brands offer?
+> 
+> Or, a list of items that are eligable for the rewards program? I think this would help with cataloging items and brands.
+>
+> Sorry if these questions are basic, I was handed this data with no context or knowledge of the rewards program.
+> 
+> Thanks, 
 
 
-> What questions do you have about the data?\
-> How did you discover the data quality issues?\
-> What do you need to know to resolve the data quality issues?\
-> What other information would you need to help you optimize the data assets you're trying to create?\
-> What performance and scaling concerns do you anticipate in production and how do you plan to address them?
+- What questions do you have about the data?
+- How did you discover the data quality issues?
+- What do you need to know to resolve the data quality issues?
+- What other information would you need to help you optimize the data assets you're trying to create?
+- What performance and scaling concerns do you anticipate in production and how do you plan to address them?
